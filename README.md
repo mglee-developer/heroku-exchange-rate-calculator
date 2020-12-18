@@ -1,11 +1,15 @@
 # Exchange Rate Calculator
 
 # Introduction
+- 헤로쿠 사용하여 배포
 - open API를 활용하여 국제 통화 환율을 계산하는 프로그램
 - 개발기간: 2020.12.15 - 2020.12.18(4일)
 
 # DEMO
-[DEMO]('https://mglee-developer.herokuapp.com/')
+[DEMO](https://mglee-developer.herokuapp.com/)
+
+
+![Exchange Rate Calculator](https://user-images.githubusercontent.com/70195171/102623399-c6ff2d80-4185-11eb-9764-52f1312b07e5.gif)
 
 
 
